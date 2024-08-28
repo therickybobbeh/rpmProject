@@ -2,3 +2,10 @@
 venv
 venv/*
 *.csv
+ProblemSet.py
+RavensFigure.py
+RavensGrader.py
+RavensObject.py
+RavensProblem.py
+RavensProject.py
+Problems/*
