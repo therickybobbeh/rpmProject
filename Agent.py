@@ -1,3 +1,5 @@
+from src.ImageProcessing.ProcessImage import ProcessImage
+
 
 # To activate image processing, uncomment the following imports:
 # from PIL import Image
@@ -39,6 +41,9 @@ class Agent:
             
         Don't forget to uncomment the imports as needed!
         '''
+
+        ProcessImage.process(problem)
+
 
         # Placeholder: Skip all problems for now.
         # return -1
