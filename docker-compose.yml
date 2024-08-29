@@ -1,0 +1,8 @@
+services:
+  ravensproject:
+    build: .
+    image: ravensproject_image:latest
+    container_name: ravensproject_container
+    volumes:
+      - .:/app
+    command: python RavensProject.py
