@@ -1,8 +1,8 @@
 
 # To activate image processing, uncomment the following imports:
 # from PIL import Image
-# import numpy as np
-# import cv2
+import numpy as np
+import cv2
 
 class Agent:
     def __init__(self):
