@@ -9,7 +9,6 @@ this project is built on python 3.11.9
 > python -m venv venv
 
 2. Start the virtual env. navigate to project folder and run:
-
 > .\venv\Scripts\activate
 
 To stop run
